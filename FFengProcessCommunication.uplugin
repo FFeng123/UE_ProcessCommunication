@@ -1,0 +1,26 @@
+{
+	"FileVersion": 1,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ProcessCommunicationTools",
+	"Description": "用于蓝图中简单进程间通信",
+	"Category": "Messaging",
+	"CreatedBy": "FFeng",
+	"CreatedByURL": "https://blog.ffeng123.win",
+	"DocsURL": "https://srcblog.ffeng123.win:23443/archives/c5d757a6-ad28-4556-ab7c-cc54e20414b5",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "FFengProcessCommunication",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Win64",
+			]
+		}
+	]
+}
